@@ -1,0 +1,12 @@
+
+Answer to IQ Test:
+
+Q1. Option 2 - Because the output will be like the opposite view of the first row, and it gives some meaning or pattern.
+
+Q2. Option 2 - Because this follows the general pattern of the given figure.
+
+Q3. Option 1 - Left and right positions, because all of the last columns are like merging column 1 and column 2 based on their positions.
+
+Q4. Option 4 - The pattern for this is that the circle and square directly intersect until they swap positions, and then the solid line goes from bottom to top.
+
+Q5. Option 4 - The pattern/movement of the objects is from left to right and bottom to top. The square moves from left to right, and the circle moves from bottom to top.
